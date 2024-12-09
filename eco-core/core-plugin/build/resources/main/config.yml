@@ -1,0 +1,12 @@
+#
+# Configuration file for the core plugin
+#
+
+AfkRegions:
+  - "spawn:afk"
+
+# in minutes
+frequency: 10
+
+# tokens to give
+tokens: 1

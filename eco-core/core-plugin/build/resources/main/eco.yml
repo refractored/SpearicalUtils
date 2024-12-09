@@ -1,0 +1,6 @@
+options:
+  color: "&#D0CA00"
+  supports-extensions: false
+environment:
+  - name: libreforge version
+    value: 4.72.2

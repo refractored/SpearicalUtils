@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/SpearicalUtils.eco-core.core-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/SpearicalUtils.eco-core.core-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/SpearicalUtils.eco-core.core-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/SpearicalUtils.eco-core.core-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/SpearicalUtils.eco-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/SpearicalUtils.eco-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/SpearicalUtils.eco-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/SpearicalUtils.eco-core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpearicalUtils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpearicalUtils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpearicalUtils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpearicalUtils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/net.refractored.SpearicalUtils.eco-core.core-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/net.refractored.SpearicalUtils.eco-core.core-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/net.refractored.SpearicalUtils.eco-core.core-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/core-plugin/net.refractored.SpearicalUtils.eco-core.core-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/net.refractored.SpearicalUtils.eco-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/net.refractored.SpearicalUtils.eco-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eco-core/net.refractored.SpearicalUtils.eco-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eco-core/net.refractored.SpearicalUtils.eco-core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.refractored.SpearicalUtils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.refractored.SpearicalUtils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.refractored.SpearicalUtils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.refractored.SpearicalUtils.test.iml" />
+    </modules>
+  </component>
+</project>

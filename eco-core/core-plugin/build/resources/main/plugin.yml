@@ -1,0 +1,9 @@
+name: SpearicalUtils
+version: 0.1
+main: net.refractored.spearicalutils.BloodmoonPlugin
+api-version: "1.21"
+authors: [ refractored ]
+website: refractored.net
+load: STARTUP
+depend:
+  - eco
