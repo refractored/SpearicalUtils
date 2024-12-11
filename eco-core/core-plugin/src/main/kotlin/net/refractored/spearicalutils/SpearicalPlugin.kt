@@ -23,7 +23,7 @@ class SpearicalPlugin : LibreforgePlugin() {
 
         worldguard = WorldGuard.getInstance()
 
-        ppAPI = PlayerPoints.getInstance().getAPI()
+        ppAPI = PlayerPoints.getInstance().api
 
         handler = BukkitCommandHandler.create(this)
 
